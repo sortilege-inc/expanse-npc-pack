@@ -1,12 +1,12 @@
 {
   "title": "Expanse NPC Pack",
   "description": "Shareable Expanse RPG Compendium Pack - NO COPYRIGHT MATERIAL",
-  "version": "0.1.7",
-  "url": "https://github.com/schlosrat/expanse-npc-pack",
-  "manifest": "https://raw.githubusercontent.com/schlosrat/expanse-npc-pack/master/module.json",
-  "download": "https://github.com/schlosrat/expanse-npc-pack/archive/refs/tags/0.1.7.zip",
-  "changelog": "https://github.com/schlosrat/expanse-npc-pack/blob/master/CHANGELOG.md",
-  "readme": "https://github.com/schlosrat/expanse-npc-pack/blob/master/README.md",
+  "version": "0.1.8",
+  "url": "https://github.com/sortilege-inc/expanse-npc-pack",
+  "manifest": "https://raw.githubusercontent.com/sortilege-inc/expanse-npc-pack/refs/heads/main/module.json",
+  "download": "https://github.com/sortilege-inc/expanse-npc-pack/archive/refs/heads/main.zip",
+  "changelog": "https://github.com/sortilege-inc/expanse-npc-pack/blob/main/CHANGELOG.md",
+  "readme": "https://github.com/sortilege-inc/expanse-npc-pack/blob/main/README.md",
   "scripts": [
     "scripts/scene-packer.js"
   ],
